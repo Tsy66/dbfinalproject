@@ -1,0 +1,250 @@
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\資料庫管理test0.exe.config
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\資料庫管理test0.exe
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\資料庫管理test0.pdb
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\資料庫管理test0.xml
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\MySql.Data.dll
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\System.Buffers.dll
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\System.IO.Pipelines.dll
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\System.Memory.dll
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\BouncyCastle.Crypto.xml
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\K4os.Compression.LZ4.xml
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\K4os.Hash.xxHash.xml
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\MySql.Data.xml
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\System.Buffers.xml
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\System.IO.Pipelines.xml
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\System.Memory.xml
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\obj\x64\Debug\資料庫管理test0.vbproj.AssemblyReference.cache
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\obj\x64\Debug\資料庫管理test0.Resources.resources
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\obj\x64\Debug\資料庫管理test0.vbproj.GenerateResource.cache
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\obj\x64\Debug\資料庫管理test0.vbproj.CoreCompileInputs.cache
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\obj\x64\Debug\資料庫管理test0.vbproj.CopyComplete
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\obj\x64\Debug\資料庫管理test0.exe
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\obj\x64\Debug\資料庫管理test0.xml
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\obj\x64\Debug\資料庫管理test0.pdb
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\obj\x64\Debug\資料庫管理test0.OrderConfirm.resources
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\obj\x64\Debug\資料庫管理test0.OrderSus.resources
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\obj\x64\Debug\資料庫管理test0.Record.resources
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\obj\x64\Debug\資料庫管理test0.LogIn.resources
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\obj\x64\Debug\資料庫管理test0.SignUp.resources
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\obj\x64\Debug\資料庫管理test0.Home.resources
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\obj\x64\Debug\資料庫管理test0.MovieIntro.resources
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\obj\x64\Debug\資料庫管理test0.Showing.resources
+C:\Users\蔡姍穎\source\repos\資料庫管理test0\obj\x64\Debug\資料庫管理test0.SelectSeats.resources
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\資料庫管理test0.exe.config
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\資料庫管理test0.exe
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\資料庫管理test0.pdb
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\資料庫管理test0.xml
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\MySql.Data.dll
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\System.Buffers.dll
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\System.IO.Pipelines.dll
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\System.Memory.dll
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\BouncyCastle.Crypto.xml
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\K4os.Compression.LZ4.xml
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\K4os.Hash.xxHash.xml
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\MySql.Data.xml
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\System.Buffers.xml
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\System.IO.Pipelines.xml
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\System.Memory.xml
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.vbproj.AssemblyReference.cache
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.ManagerHome.resources
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.ManagerMember.resources
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.ManagerMovie.resources
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.ManagerSeat.resources
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.ManagerTIX.resources
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.OrderConfirm.resources
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.OrderSus.resources
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.Record.resources
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.LogIn.resources
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.SignUp.resources
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.Home.resources
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.MovieIntro.resources
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.Showing.resources
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.SelectSeats.resources
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.Resources.resources
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.vbproj.GenerateResource.cache
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.vbproj.CoreCompileInputs.cache
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.vbproj.CopyComplete
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.exe
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.xml
+C:\Users\蔡姍穎\Desktop\資料庫管理test0\obj\x64\Debug\資料庫管理test0.pdb
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\資料庫管理test0.exe.config
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\資料庫管理test0.exe
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\資料庫管理test0.pdb
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\資料庫管理test0.xml
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\MySql.Data.dll
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\System.Buffers.dll
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\System.IO.Pipelines.dll
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\System.Memory.dll
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\BouncyCastle.Crypto.xml
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\K4os.Compression.LZ4.xml
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\K4os.Hash.xxHash.xml
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\MySql.Data.xml
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\System.Buffers.xml
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\System.IO.Pipelines.xml
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\System.Memory.xml
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.vbproj.AssemblyReference.cache
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.ManagerHome.resources
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.ManagerMember.resources
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.ManagerMovie.resources
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.ManagerSeat.resources
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.ManagerTIX.resources
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.OrderConfirm.resources
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.OrderSus.resources
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.Record.resources
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.Login.resources
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.SignUp.resources
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.Home.resources
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.MovieIntro.resources
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.Showing.resources
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.SelectSeats.resources
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.Resources.resources
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.vbproj.GenerateResource.cache
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.vbproj.CoreCompileInputs.cache
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.vbproj.CopyComplete
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.exe
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.xml
+C:\Users\tsai_\Downloads\資料庫管理test0(2)\資料庫管理test0\obj\x64\Debug\資料庫管理test0.pdb
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\資料庫管理test0.exe.config
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\資料庫管理test0.exe
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\資料庫管理test0.pdb
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\資料庫管理test0.xml
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\MySql.Data.dll
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\System.Buffers.dll
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\System.IO.Pipelines.dll
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\System.Memory.dll
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\BouncyCastle.Crypto.xml
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\K4os.Compression.LZ4.xml
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\K4os.Hash.xxHash.xml
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\MySql.Data.xml
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\System.Buffers.xml
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\System.IO.Pipelines.xml
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\System.Memory.xml
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tsai_\Downloads\資料庫管理test1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.vbproj.AssemblyReference.cache
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.ManagerHome.resources
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.ManagerMember.resources
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.ManagerMovie.resources
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.ManagerSeat.resources
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.ManagerTIX.resources
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.OrderConfirm.resources
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.OrderSus.resources
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.Record.resources
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.Login.resources
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.SignUp.resources
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.Home.resources
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.MovieIntro.resources
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.Showing.resources
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.SelectSeats.resources
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.Resources.resources
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.vbproj.GenerateResource.cache
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.vbproj.CoreCompileInputs.cache
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.vbproj.CopyComplete
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.exe
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.xml
+C:\Users\tsai_\Downloads\資料庫管理test1\obj\x64\Debug\資料庫管理test0.pdb
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\資料庫管理test0.exe.config
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\資料庫管理test0.exe
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\資料庫管理test0.pdb
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\資料庫管理test0.xml
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\MySql.Data.dll
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\System.Buffers.dll
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\System.IO.Pipelines.dll
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\System.Memory.dll
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\BouncyCastle.Crypto.xml
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\Google.Protobuf.pdb
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\K4os.Compression.LZ4.xml
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\K4os.Hash.xxHash.xml
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\MySql.Data.xml
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\System.Buffers.xml
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\System.IO.Pipelines.xml
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\System.Memory.xml
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.vbproj.AssemblyReference.cache
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.ManagerHome.resources
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.ManagerMember.resources
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.ManagerMovie.resources
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.ManagerSeat.resources
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.ManagerTIX.resources
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.OrderConfirm.resources
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.OrderSus.resources
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.Record.resources
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.Login.resources
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.SignUp.resources
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.Home.resources
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.MovieIntro.resources
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.Showing.resources
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.SelectSeats.resources
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.Resources.resources
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.vbproj.GenerateResource.cache
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.vbproj.CoreCompileInputs.cache
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.vbproj.CopyComplete
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.exe
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.xml
+C:\Users\tsai_\Downloads\資料庫管理test1 - 複製\obj\x64\Debug\資料庫管理test0.pdb

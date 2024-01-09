@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{111CBACA-2377-42C1-BCD4-A438721EC2CC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>資料庫管理test0.My.MyApplication</StartupObject>
+    <RootNamespace>資料庫管理test0</RootNamespace>
+    <AssemblyName>資料庫管理test0</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>資料庫管理test0.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>資料庫管理test0.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DocumentationFile>資料庫管理test0.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>資料庫管理test0.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.9.0.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>packages\Portable.BouncyCastle.1.9.0\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.21.9.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>packages\Google.Protobuf.3.21.9\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.3.5.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Compression.LZ4.1.3.5\lib\net462\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.3.5.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Compression.LZ4.Streams.1.3.5\lib\net462\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.8.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>packages\K4os.Hash.xxHash.1.0.8\lib\net462\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.33.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>packages\MySql.Data.8.0.33\lib\net462\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Pipelines, Version=5.0.0.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.IO.Pipelines.5.0.2\lib\net461\System.IO.Pipelines.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ManagerHome.Designer.vb">
+      <DependentUpon>ManagerHome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerMember.Designer.vb">
+      <DependentUpon>ManagerMember.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerMember.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerMovie.Designer.vb">
+      <DependentUpon>ManagerMovie.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerMovie.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerSeat.Designer.vb">
+      <DependentUpon>ManagerSeat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerSeat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManagerTIX.Designer.vb">
+      <DependentUpon>ManagerTIX.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManagerTIX.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderConfirm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderConfirm.Designer.vb">
+      <DependentUpon>OrderConfirm.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include=".Designer.vb">
+      <DependentUpon>OrderSuccess.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderSuccess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Record.Designer.vb">
+      <DependentUpon>Record.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Record.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.vb">
+      <DependentUpon>LogIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUp.Designer.vb">
+      <DependentUpon>SignUp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SignUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.vb">
+      <DependentUpon>Home.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MovieIntro.Designer.vb">
+      <DependentUpon>MovieIntro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MovieIntro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Showing.Designer.vb">
+      <DependentUpon>Showing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Showing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectSeats.Designer.vb">
+      <DependentUpon>SelectSeats.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SelectSeats.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ManagerHome.resx">
+      <DependentUpon>ManagerHome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerMember.resx">
+      <DependentUpon>ManagerMember.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerMovie.resx">
+      <DependentUpon>ManagerMovie.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerSeat.resx">
+      <DependentUpon>ManagerSeat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManagerTIX.resx">
+      <DependentUpon>ManagerTIX.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderConfirm.resx">
+      <DependentUpon>OrderConfirm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderSuccess.resx">
+      <DependentUpon>OrderSuccess.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Record.resx">
+      <DependentUpon>Record.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUp.resx">
+      <DependentUpon>SignUp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MovieIntro.resx">
+      <DependentUpon>MovieIntro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Showing.resx">
+      <DependentUpon>Showing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectSeats.resx">
+      <DependentUpon>SelectSeats.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\背景.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\訂票成功.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\訂票背景.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\step1_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\step2_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\修改個人資料.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MovieTIX_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\會員.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\登入畫面.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\註冊畫面.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\背景1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\電影簡介.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\選擇場次.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\選擇座位.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGIN%28black%29_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGINsuccess_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SIGNUP_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\X_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SIGNUPsuccess_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\我要訂票.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database背景.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\START.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\首頁票證交易.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\首頁場次.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\首頁會員.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\首頁電影.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\回首頁button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\票務.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\票證交易紀錄button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\場次.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\場次資訊button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\會員資訊button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\電影.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\電影資訊button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\會員選擇.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\小美人魚.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\金之國水之國.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\超級瑪利歐兄弟電影版.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\星際異功隊3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backtologin_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\首頁座位.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search1_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\座位.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\訂票成功訂單細節.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\使用者介面歷史訂單.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
